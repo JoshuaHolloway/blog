@@ -38,4 +38,4 @@ previous_posts_link();
 <?php endif; ?>
 <?php wp_footer(); ?>
 </body>
-</html>
+</html>ß
